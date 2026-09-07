@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![GitHub Streak](https://streak-stats.demolab.com/?user=TimurOsmanov)](https://git.io/streak-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=TimurOsmanov&layout=compact)](https://github.com/stats-organization/github-stats-extended)<br>
 [![codewars](https://www.codewars.com/users/TimurTimur1/badges/small)](https://www.codewars.com/users/TimurTimur1)  
 
 <!--
