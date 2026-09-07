@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=TimurOsmanov)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TimurOsmanov)](https://git.io/streak-stats)
 [![codewars](https://www.codewars.com/users/TimurTimur1/badges/small)](https://www.codewars.com/users/TimurTimur1)  
 
 <!--
