@@ -1,6 +1,6 @@
 ## Hi there 👋
-[![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/TimurTimur1) 
-
+Большой (large):  
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/TimurTimur1)  
 
 <!--
 **TimurOsmanov/TimurOsmanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
