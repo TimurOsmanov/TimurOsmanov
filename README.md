@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=TimurOsmanov&layout=compact)](https://github.com/stats-organization/github-stats-extended)<br>
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=TimurOsmanov&layout=compact&v=1)](https://github.com/stats-organization/github-stats-extended)<br>
 [![codewars](https://www.codewars.com/users/TimurTimur1/badges/small)](https://www.codewars.com/users/TimurTimur1)  
 
 <!--
